@@ -1,0 +1,8 @@
+colorama
+HdRezkaApi
+HDRezka
+requests
+bs4
+requests
+uvicorn
+fastapi
